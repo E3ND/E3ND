@@ -22,7 +22,7 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 
-  <img align="right" alt="BrunoE3ND" height="110" style="border-radius:70px;" src="https://drive.google.com/file/d/1mFh8mTj87B9tc0w4kiiWoquqRT8GbBPk/view?usp=sharing">
+  <img align="right" alt="BrunoE3ND" height="110" style="border-radius:70px;" src="https://discord.com/channels/891831045501112354/891831046172196896/1001223924937392258">
 </div>
   
   ##
