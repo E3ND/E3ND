@@ -23,7 +23,7 @@
   
 
   <img align="right" alt="BrunoE3ND" height="110" style="border-radius:70px;" 
-       src="https://64.media.tumblr.com/1754e0ec19e19eebb37a8a67ecd093ad/0339675014a98080-77/s540x810/ae7573747cfa32ba4ddc6b6aa06317f496961f85.gifv">
+       url="https://64.media.tumblr.com/1754e0ec19e19eebb37a8a67ecd093ad/0339675014a98080-77/s540x810/ae7573747cfa32ba4ddc6b6aa06317f496961f85.gifv">
 </div>
   
   ##
