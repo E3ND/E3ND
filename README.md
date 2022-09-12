@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Procuro trabalhar com frontEnd
+- 🔭 Procuro trabalhar com Front-End & Back-End
 - 🌱 Estudando React JS & Node
 - 📫 Contato: brunopimentelzw@gmail.com
 - ⚡ Sempre disposto a aprender mais!
