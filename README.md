@@ -23,7 +23,9 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 
-  ![](https://cdn.discordapp.com/attachments/891831046172196896/1105872320612008006/vergil-son-of-sparda.gif)
+  <p align="right">
+    <img width="250" src="assets/vergil-son-of-sparda.gif" />
+  </p>
 </div>
   
   ##
