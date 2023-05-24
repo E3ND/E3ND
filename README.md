@@ -23,7 +23,7 @@
   
 
   <p align="right">
-    <img width="250" src="assets/vergil-son-of-sparda.gif" />
+    <img width="400" src="assets/vergil-son-of-sparda.gif" />
   </p>
 </div>
   
