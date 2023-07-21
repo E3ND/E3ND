@@ -1,6 +1,5 @@
 <h1>Opa! Eu sou o Bruno!</h1>
 
-- 🔭 Procuro trabalhar com Front-End & Back-End <br>
 - 🌱 Estudando PHP & Node <br>
 - 📫 Contato: brunopimentelzw@gmail.com <br>
 - ⚡ Sempre disposto a aprender mais! <br>
