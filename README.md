@@ -45,13 +45,5 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/></code>
 
-
-
-
 <div style="display: inline_block"><br>
-
-
- 
- ![Snake animation](https://github.com/E3ND/E3ND/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
