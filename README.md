@@ -17,7 +17,7 @@
 
 <p align="left"> 
   Sou técnico em desenvolvimentos de sistemas pela ETEC de Guainazes, <br>
-  curso bacharelado em ciência da computação e faço estágio em back-end na Holu Painel Solar
+  curso bacharelado em ciência da computação
 </p>
 
 <p align="left">
