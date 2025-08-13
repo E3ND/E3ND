@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  🛠 Frameworks: NodeJS, ReactJS & Spring Boot
+  🛠 Frameworks: NodeJS, NestJS, ReactJS & Spring Boot
 </p>
 
 <p align="left">
