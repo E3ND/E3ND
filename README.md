@@ -1,6 +1,6 @@
 <h1>Opa! Eu sou o Bruno!</h1>
 
-- 🌱 Estudando PHP & Node <br>
+- 🌱 Estudando React & Node <br>
 - 📫 Contato: brunopimentelzw@gmail.com <br>
 - ⚡ Sempre disposto a aprender mais! <br>
 <div align="center">
