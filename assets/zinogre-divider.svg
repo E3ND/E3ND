@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="32" viewBox="0 0 1000 32" role="img" aria-label="Divisor com detalhes de raios ciano e dourado">
+  <defs>
+    <linearGradient id="left"><stop stop-color="#55DDE0" stop-opacity="0"/><stop offset="1" stop-color="#55DDE0"/></linearGradient>
+    <linearGradient id="right"><stop stop-color="#55DDE0"/><stop offset="1" stop-color="#55DDE0" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path d="M30 16H312l20-5 17 10 30-5h65" fill="none" stroke="url(#left)" stroke-width="2"/>
+  <path d="M556 16h65l30 5 17-10 20 5h282" fill="none" stroke="url(#right)" stroke-width="2"/>
+  <path d="m488 5-12 13h11l-4 9 17-15h-12l6-7z" fill="#D8B65C"/>
+  <path d="m515 8 6 8-6 8-6-8z" fill="#55DDE0"/>
+</svg>
