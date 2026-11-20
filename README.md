@@ -21,7 +21,7 @@ A versão anterior está preservada na pasta anterior do pacote de comparação.
 
 Gosto de transformar ideias em soluções práticas, entender como as coisas funcionam e refinar o que construo.
 
-Sou técnico em **Desenvolvimento de Sistemas pela ETEC de Guaianases** e estou cursando **bacharelado em Ciência da Computação**.
+Sou técnico em **Desenvolvimento de Sistemas pela ETEC de Guaianases** e bacharel em **Ciência da Computação**.
 
 Atualmente, estou aprofundando meus conhecimentos em **React** e **Node.js**, com foco em desenvolvimento web e soluções de backend.
 
