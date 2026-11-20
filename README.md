@@ -69,7 +69,9 @@ Atualmente, estou aprofundando meus conhecimentos em **React** e **Node.js**, co
 <p><img src="assets/section-links.svg" width="650" alt="Conexões" /></p>
 
 <p align="center">
-  <a href="mailto:brunopimentelzw@gmail.com"><img src="assets/link-email.svg" width="170" alt="E-mail: brunopimentelzw@gmail.com" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=brunopimentelzw%40gmail.com">
+  <img src="assets/link-email.svg" width="170" alt="Enviar e-mail para brunopimentelzw@gmail.com" />
+</a>
   &nbsp;
   <a href="https://www.linkedin.com/in/bruno-pimentel-01b948220"><img src="assets/link-linkedin.svg" width="170" alt="LinkedIn de Bruno Pimentel" /></a>
   &nbsp;
