@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" role="img" aria-label="Built with focus. Charged with purpose. Calm before the surge."><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071b23"/><stop offset=".55" stop-color="#0b141c"/><stop offset="1" stop-color="#091e25"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#55e9ed" stop-opacity=".12"/><stop offset=".5" stop-color="#55e9ed"/><stop offset="1" stop-color="#55e9ed" stop-opacity=".12"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#22d3ee" stop-opacity=".20"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <filter id="glow" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="998" height="88" rx="10" fill="url(#bg)" stroke="#1c414a"/>
+<path d="M25 45h153l20-6 20 12 25-6h26m462 0h26l25 6 20-12 20 6h153" stroke="#55e9ed" stroke-width="1.5" fill="none" filter="url(#glow)" opacity=".8"/>
+<text x="500" y="41" text-anchor="middle" fill="#dfedf1" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-style="italic">Built with focus. Charged with purpose.</text>
+<text x="500" y="66" text-anchor="middle" fill="#d5b66d" font-family="monospace" font-size="12" letter-spacing="3">CALM BEFORE THE SURGE</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145" height="48" viewBox="0 0 145 48" role="img" aria-label="HTML5"><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071b23"/><stop offset=".55" stop-color="#0b141c"/><stop offset="1" stop-color="#091e25"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#55e9ed" stop-opacity=".12"/><stop offset=".5" stop-color="#55e9ed"/><stop offset="1" stop-color="#55e9ed" stop-opacity=".12"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#22d3ee" stop-opacity=".20"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <filter id="glow" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="143" height="46" rx="8" fill="url(#bg)" stroke="#285660"/>
+<rect x="10" y="12" width="25" height="24" rx="5" fill="#12353d"/>
+<text x="22.5" y="28" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#60e4e9">5</text>
+<text x="44" y="28" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#dfedf1">HTML5</text>
+<path d="M10 1h24" stroke="#55dfe3" opacity=".6"/>
+</svg>

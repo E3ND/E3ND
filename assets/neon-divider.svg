@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="38" viewBox="0 0 1000 38" role="img" aria-label="Divisor decorativo com raios ciano e dourado"><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071b23"/><stop offset=".55" stop-color="#0b141c"/><stop offset="1" stop-color="#091e25"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#55e9ed" stop-opacity=".12"/><stop offset=".5" stop-color="#55e9ed"/><stop offset="1" stop-color="#55e9ed" stop-opacity=".12"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#22d3ee" stop-opacity=".20"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <filter id="glow" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<path d="M15 19h293l23-5 18 10 29-5h73m98 0h73l29 5 18-10 23 5h293" stroke="url(#edge)" stroke-width="1.6" fill="none" filter="url(#glow)"/>
+<path d="m495 6-15 16h13l-5 10 22-20h-14l6-6z" fill="#dbb761"/>
+<circle cx="530" cy="19" r="2" fill="#55e9ed" filter="url(#glow)"/>
+</svg>

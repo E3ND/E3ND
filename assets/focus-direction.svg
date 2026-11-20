@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="132" viewBox="0 0 480 132" role="img" aria-label="DIREÇÃO: Web &amp; Backend. APIs, arquitetura e soluções práticas."><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071b23"/><stop offset=".55" stop-color="#0b141c"/><stop offset="1" stop-color="#091e25"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#55e9ed" stop-opacity=".12"/><stop offset=".5" stop-color="#55e9ed"/><stop offset="1" stop-color="#55e9ed" stop-opacity=".12"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#22d3ee" stop-opacity=".20"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <filter id="glow" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="2" y="5" width="476" height="120" rx="12" fill="url(#bg)" stroke="#28616b"/>
+<path d="M18 5h88m-88 0v12" stroke="#55e9ed" stroke-width="2" fill="none" filter="url(#glow)"/>
+<text x="27" y="35" fill="#9eb5bf" font-family="monospace" font-size="13" letter-spacing="2">DIREÇÃO</text>
+<text x="27" y="70" fill="#e2c581" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="600">Web &amp; Backend</text>
+<text x="27" y="100" fill="#b4c7cf" font-family="Segoe UI,Arial,sans-serif" font-size="17">APIs, arquitetura e soluções práticas.</text>
+<path d="m447 79-16 24h13l-4 12 23-23h-14l6-13z" fill="#e2c581" opacity=".23"/>
+</svg>

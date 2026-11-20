@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="48" viewBox="0 0 170 48" role="img" aria-label="LinkedIn"><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071b23"/><stop offset=".55" stop-color="#0b141c"/><stop offset="1" stop-color="#091e25"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#55e9ed" stop-opacity=".12"/><stop offset=".5" stop-color="#55e9ed"/><stop offset="1" stop-color="#55e9ed" stop-opacity=".12"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#22d3ee" stop-opacity=".20"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <filter id="glow" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="168" height="46" rx="8" fill="url(#bg)" stroke="#2a7881"/>
+<text x="25" y="30" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#dfc07a">in</text>
+<path d="M47 13v22" stroke="#30515a"/>
+<text x="64" y="29" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#e0edf1">LinkedIn</text>
+<path d="M13 1h30" stroke="#55dfe3" opacity=".7" filter="url(#glow)"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="156" viewBox="0 0 1000 156" role="img" aria-label="Bruno Pimentel — E3ND, desenvolvedor. Focus. Build. Evolve."><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071b23"/><stop offset=".55" stop-color="#0b141c"/><stop offset="1" stop-color="#091e25"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#55e9ed" stop-opacity=".12"/><stop offset=".5" stop-color="#55e9ed"/><stop offset="1" stop-color="#55e9ed" stop-opacity=".12"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#22d3ee" stop-opacity=".20"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <filter id="glow" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="998" height="154" rx="14" fill="url(#bg)" stroke="#1d5861"/>
+<ellipse cx="835" cy="80" rx="190" ry="110" fill="url(#aura)"/>
+<path d="M26 1h228m-228 0v20m720 134h228m0 0v-20" stroke="#55e9ed" stroke-width="2" fill="none" filter="url(#glow)"/>
+<path d="M38 35h20" stroke="#dbb761" stroke-width="3"/>
+<text x="70" y="40" fill="#77d9de" font-family="monospace" font-size="14" letter-spacing="3">E3ND / DEVELOPER</text>
+<text x="36" y="96" fill="#eef6f7" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="43" letter-spacing="2">BRUNO PIMENTEL</text>
+<text x="38" y="129" fill="#a2b7c2" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="2">FOCUS. BUILD. EVOLVE.</text>
+<path d="M701 94h55l-11-13 33 7 19-29-5 33 31-6-9 15h45l23-20h71" fill="none" stroke="#55e9ed" stroke-width="2" filter="url(#glow)"/>
+<path d="m886 40-15 21h13l-7 16 28-26h-16l8-11z" fill="#dbb761"/>
+<g stroke="#2e5861" opacity=".55"><path d="m920 123 11-11h29m-12 21 12-11h18"/></g>
+</svg>
